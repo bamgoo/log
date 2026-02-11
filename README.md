@@ -1,0 +1,2 @@
+# log
+bamgoo log module.
